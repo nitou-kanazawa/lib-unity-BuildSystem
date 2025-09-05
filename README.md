@@ -26,7 +26,7 @@ https://github.com/nitou-kanazawa/lib-unity-BuildSystem.git
 ```
 {
     "dependencies": {
-        "com.annulusgames.lit-motion": "https://github.com/nitou-kanazawa/lib-unity-BuildSystem.git"
+        "jp.nitou.buildsystem": "https://github.com/nitou-kanazawa/lib-unity-BuildSystem.git"
     }
 }
 ```
